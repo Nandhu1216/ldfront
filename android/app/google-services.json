@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876295214953",
+    "project_id": "ldfront",
+    "storage_bucket": "ldfront.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876295214953:android:eeb23f764dbd5dd50c8ff8",
+        "android_client_info": {
+          "package_name": "com.example.ldfront"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtX7Zhcch2yOzdNMKwUDw_1ci4JtP0TsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
