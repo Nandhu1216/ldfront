@@ -47,7 +47,7 @@ class _HomePageState extends State<HomePage> {
         zones = zoneList;
       });
     } catch (e) {
-      print('Error loading zones: $e');
+      print('Error in loading zones: $e');
     }
   }
 
